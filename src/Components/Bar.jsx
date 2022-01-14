@@ -1,6 +1,8 @@
 const Bar = () => {
     return ( 
-        <div></div>
+        <div>
+            <h5>Bar</h5>
+        </div>
      );
 }
  
