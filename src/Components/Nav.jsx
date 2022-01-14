@@ -1,7 +1,7 @@
-const Bar = () => {
+const Nav = () => {
     return ( 
         <div></div>
      );
 }
  
-export default Bar;
+export default Nav;

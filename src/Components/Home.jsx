@@ -1,7 +1,7 @@
-const Bar = () => {
+const Home = () => {
     return ( 
         <div></div>
      );
 }
  
-export default Bar;
+export default Home;

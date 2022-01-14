@@ -1,7 +1,7 @@
-const Bar = () => {
+const Footer = () => {
     return ( 
         <div></div>
      );
 }
  
-export default Bar;
+export default Footer;
